@@ -105,7 +105,7 @@ function buildCharts(sample) {
      
       title: "Top 10 Bacterial Cultures Found",
       margin: {
-      l: 50,
+      l: 100,
       r: 50,
       t: 50,
       b: 50
