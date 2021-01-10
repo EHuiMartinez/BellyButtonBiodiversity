@@ -14,4 +14,4 @@ This is an interactive webpage that allows the user to take a closer look at the
 
 Creating dashboards allows data to be displayed in an engaging and interactive format.  This webpage was optimized for mobile responsiveness and can be accessed in multiple platforms without losing the interactive ability.  Images and change in font color can make the page more attractive and appealing.
 
-## deployted to github: https://ehuimartinez.github.io/BellyIO/
+## deployed to github: https://ehuimartinez.github.io/BellyIO/
